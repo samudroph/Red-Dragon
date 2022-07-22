@@ -29,7 +29,7 @@ global.ownernomer = '+94769481091' //Owner Number <<<
 global.ownername = '😌SAMUDITHA DINUSAHAN' //Owner Name
 global.botname = '🅂🄰🄼🅄 🄳🅁🄾🄿💝 ' //Bot Name
 
-global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
+global.button = '☰  🅂🅄🄱🅂🄲🅁🄸🄱🄴 ☰' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://youtube.com/channel/UCx4eOJKmtmhB45iLSQi_vWQ' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
